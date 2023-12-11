@@ -1,4 +1,5 @@
 # kaggle-predict-sales
+- Ranked first 7% in Kaggle Competition
 ## Sales Prediction using XGBoost Algorithm
 
 ### Team Members
